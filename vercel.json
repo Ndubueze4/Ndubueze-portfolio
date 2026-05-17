@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ndubueze-portfolio-xhgs.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
